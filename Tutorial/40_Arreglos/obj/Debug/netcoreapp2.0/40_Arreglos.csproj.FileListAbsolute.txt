@@ -1,0 +1,11 @@
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/bin/Debug/netcoreapp2.0/40_Arreglos.deps.json
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/bin/Debug/netcoreapp2.0/40_Arreglos.runtimeconfig.json
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/bin/Debug/netcoreapp2.0/40_Arreglos.runtimeconfig.dev.json
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/bin/Debug/netcoreapp2.0/40_Arreglos.dll
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/bin/Debug/netcoreapp2.0/40_Arreglos.pdb
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.csprojResolveAssemblyReference.cache
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.csproj.CoreCompileInputs.cache
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.AssemblyInfoInputs.cache
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.AssemblyInfo.cs
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.dll
+/Volumes/SamsungUSB/Develop/Tutorial/40_Arreglos/obj/Debug/netcoreapp2.0/40_Arreglos.pdb
